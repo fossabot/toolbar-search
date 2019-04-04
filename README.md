@@ -3,6 +3,7 @@
 Search control for a toolbar
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/cforgeard/toolbar-search)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcforgeard%2Ftoolbar-search.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcforgeard%2Ftoolbar-search?ref=badge_shield)
 
 <!---
 ```
@@ -32,3 +33,5 @@ bower install toolbar-search
 
 MIT Licence
 @ FORGEARD Clément 2017
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcforgeard%2Ftoolbar-search.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcforgeard%2Ftoolbar-search?ref=badge_large)
